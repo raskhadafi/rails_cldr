@@ -1,0 +1,26 @@
+{
+  "name": "rails_cldr",
+  "authors": [
+    "Roman Simecek <roman@good2go.ch>"
+  ],
+  "description": "contacts",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "APACHE",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cldr-numbers-full": "^29.0.0",
+    "cldr-dates-full": "^29.0.0"
+  }
+}
